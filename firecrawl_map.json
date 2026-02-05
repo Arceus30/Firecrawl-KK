@@ -1,0 +1,18 @@
+{
+  "links": [
+    {
+      "url": "https://docs.firecrawl.dev/fr/advanced-scraping-guide",
+      "title": "Guide de scraping avancé | Firecrawl",
+      "description": "Découvrez comment optimiser votre scraping Firecrawl grâce à des options avancées."
+    },
+    {
+      "url": "https://docs.firecrawl.dev/integrations/llama-index",
+      "title": "Page Not Found"
+    },
+    {
+      "url": "https://www.firecrawl.dev/",
+      "title": "Firecrawl - The Web Data API for AI",
+      "description": "The web crawling, scraping, and search API for AI. Built for scale. Firecrawl delivers the entire internet to AI agents and builders. Clean, structured, and ..."
+    }
+  ]
+}

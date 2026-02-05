@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "data": {
+    "title": "Quickstart | Firecrawl",
+    "description": "Firecrawl allows you to turn entire websites into LLM-ready markdown",
+    "features": [
+      "Scrape",
+      "Search",
+      "Agent"
+    ],
+    "api_endpoints": [
+      {
+        "name": "Scrape",
+        "description": "Extract content from any URL in markdown, HTML, or structured JSON."
+      },
+      {
+        "name": "Search",
+        "description": "Perform web searches and optionally scrape the search results in one operation."
+      },
+      {
+        "name": "Agent",
+        "description": "An autonomous web data gathering tool that searches, navigates, and extracts data from anywhere on the web."
+      }
+    ]
+  },
+  "status": "completed",
+  "expiresAt": "2026-02-03T14:34:34.000Z",
+  "tokensUsed": 433,
+  "creditsUsed": 29
+}

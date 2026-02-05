@@ -1,0 +1,59 @@
+{
+  "markdown": "## Explore our endpoints\n\nPower your applications with our comprehensive scraping API\n\n[**Scrape**\\\\\n\\\\\nGet llm-ready data from websites. Markdown, JSON, screenshot, etc.](https://docs.firecrawl.dev/features/scrape) [**Search**\\\\\n\\\\\nSearch the web and get full content from results.](https://docs.firecrawl.dev/features/search) [**Crawl**\\\\\n\\\\\nCrawl all the pages on a website and get data for each page.](https://docs.firecrawl.dev/features/crawl) [**Agent** \\\\\n\\\\\nNEW\\\\\n\\\\\nGather data wherever it lives on the web.](https://firecrawl.dev/app/agent)\n\n### Scraped pages - Last 7 days\n\nCredit usage differs\n\n135\n\n01/2301/2601/30\n\n### Concurrent Browsers\\[ LIVE \\]\n\n\\# of active browsers — [upgrade plan](https://www.firecrawl.dev/pricing) for faster scraping\n\n1\n\nof 2 active browsers\n\n[**API Key** \\\\\n\\\\\nStart scraping right away](https://www.firecrawl.dev/app/api-keys)\n\nfc-f\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*\\*bdba\n\n[**MCP Integration** \\\\\n\\\\\nConnect with AI tools](https://docs.firecrawl.dev/mcp-server)\n\n```json\n{\n  \"mcpServers\": {\n    \"firecrawl-mcp\": {\n      \"command\": \"npx\",\n      \"args\": [\"-y\", \"firecrawl-mcp\"],\n      \"env\": {\n        \"FIRECRAWL_API_KEY\": \"$API_KEY\"\n      }\n    }\n  }\n}\n```\n\n## Integrations\n\n[![Python](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fpython.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Python**](https://docs.firecrawl.dev/sdks/python) [![JS/TS SDK](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fjs.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**JS/TS SDK**](https://docs.firecrawl.dev/sdks/node) [![Langchain](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Flangchain.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Langchain**](https://docs.langchain.com/oss/python/integrations/providers/firecrawl) [![Langchain JS](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Flangchain.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Langchain JS**](https://js.langchain.com/docs/integrations/document_loaders/web_loaders/firecrawl) [![LlamaIndex](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fllamaindex.jpeg&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**LlamaIndex**](https://developers.llamaindex.ai/python/framework-api-reference/readers/web/#llama_index.readers.web.FireCrawlWebReader) [![Zapier](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fzapier-square-logo.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Zapier**](https://zapier.com/apps/firecrawl/integrations) [![Make](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fmake.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Make**](https://www.make.com/en/integrations/firecrawl) [![Discord](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fdiscord.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Discord**](https://github.com/firecrawl/firecrawl-discord-bot) [![CrewAI](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fcrewai.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**CrewAI**](https://docs.crewai.com/en/tools/web-scraping/firecrawlscrapewebsitetool) [![Dify](https://www.firecrawl.dev/_next/image?url=%2Flogos%2Fdify.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Dify**](https://dify.ai/blog/dify-ai-blog-integrated-with-firecrawl) [![Flowise](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fflowise.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Flowise**](https://docs.flowiseai.com/integrations/langchain/document-loaders/firecrawl) [![Pipedream](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fpipedream.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Pipedream**](https://pipedream.com/apps/firecrawl/) [![n8n](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fn8n.webp&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**n8n**](https://n8n.io/integrations/firecrawl/) [![Composio](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fcomposio.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Composio**](https://docs.composio.dev/toolkits/firecrawl) [![Langflow](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Flangflow_2.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Langflow**](https://docs.langflow.org/) [![Vectorize](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fvectorize.webp&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Vectorize**](https://docs.vectorize.io/integrations/source-connectors/firecrawl) [![CAMEL-AI](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fcamel-ai.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**CAMEL-AI**](https://docs.camel-ai.org/cookbooks/data_processing/ingest_data_from_websites_with_Firecrawl) [![Praison AI](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fpraison.jpg&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Praison AI**](https://docs.praison.ai/firecrawl/) [![Superinterface](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fsuperinterface.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Superinterface**](https://superinterface.ai/docs/assistants/functions/firecrawl) [![SourceSync.ai](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fragaas.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**SourceSync.ai**](https://sourcesync.ai/) [![Cargo](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fcargo.jpeg&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Cargo**](https://docs.getcargo.io/integration/firecrawl) [![Pabbly Connect](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fpabbly.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Pabbly Connect**](https://www.pabbly.com/connect/integrations/firecrawl/) [![Abstra](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fabstra.jpeg&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**Abstra**](https://www.abstra.io/integrations/firecrawl) [![ViaSocket](https://www.firecrawl.dev/_next/image?url=%2Fintegrations%2Fviasocket.png&w=48&q=75&dpl=dpl_5gNZ9ouDztZzBcXWoPJMLfyw3i3u)\\\\\n\\\\\n**ViaSocket**](https://viasocket.com/faq/integration-guides/getting-started---firecrawl?source=firecrawl)\n\n## Example Projects\n\n[**30+ Examples**\\\\\n\\\\\nCollection of simple projects built with Firecrawl\\\\\n\\\\\nTypeScriptPythonFirecrawl SDK](https://github.com/firecrawl/firecrawl/tree/main/examples) [**LLMs.txt Generator**\\\\\n\\\\\nGenerate an llms.txt with this web app built on Next.js\\\\\n\\\\\nTypeScriptNext.jsFirecrawl SDK](https://github.com/firecrawl/llmstxt-generator) [**Trend Finder**\\\\\n\\\\\nStay on top of trending topics on the web with AI\\\\\n\\\\\nTypeScriptFirecrawl SDK](https://github.com/ericciarla/trendFinder) [**Open Deep Research**\\\\\n\\\\\nOpen source version of OpenAI's Deep Research\\\\\n\\\\\nNext.jsAI SDKFirecrawl SDK](https://github.com/nickscamara/open-deep-research) [**Full App Examples**\\\\\n\\\\\nFull Firecrawl apps with source code and instructions\\\\\n\\\\\nPythonTypescriptFirecrawl SDK](https://github.com/firecrawl/firecrawl-app-examples)\n\nWhat's New\n\n### Introducing the Firecrawl Skill & CLI\n\nA new way for AI agents to reliably access real-time web data with a single install.\n\n[Powered by Pylon](https://usepylon.com/)",
+  "actions": {
+    "screenshots": [
+      "https://storage.googleapis.com/firecrawl-scrape-media/screenshot-ebf26db0-6344-4cd3-9243-7a1d3e0d391d.png?GoogleAccessId=scrape-bucket-accessor%40firecrawl.iam.gserviceaccount.com&Expires=1770359157&Signature=lu2cXsY8hgBcnkaXpm7ObHOD4mW3lrpDUC6QOZv%2BdsoRrk8xxvfZ5w3XEZOIFgBZPhJy8yftvUqD8BwLvlJ3JNzwrZ3lbQPqmLU%2B29bU75rfPOwMnoWms9SjM557B%2B817zGlSNaIxMwO6Um9xhTUi5EILDGntNp6Frod5Xrh5mhXoLpBftXAygj%2Fr0%2BXChdrCo74GJolsUKYvXMnkbGQVoX%2BkROg7Eh%2FtMXSc%2F%2BozHGrmLEzZbVyd4zh3W8XVTJykgy2JsRZphHnqqvyhd%2Ffz%2F%2BaksmrIDYqe7YBHRoUnGda012TO7NaJJjyqy7s6vQMHBuDsiR9DfJVvsHkjMpn8Q%3D%3D"
+    ],
+    "scrapes": [],
+    "javascriptReturns": [],
+    "pdfs": []
+  },
+  "metadata": {
+    "keywords": "Firecrawl,Markdown,Data,Mendable,Langchain",
+    "publisher": "Firecrawl",
+    "twitter:image": "https://www.firecrawl.dev/og.png",
+    "sentry-trace": [
+      "a5c1e715a26de8de7b0bfaf98c8384ab-9e8596217925f2af-0",
+      "a5c1e715a26de8de7b0bfaf98c8384ab-47eb1f4b68d4f84a-0"
+    ],
+    "og:image": "https://www.firecrawl.dev/og.png",
+    "twitter:creator": "@Vercel",
+    "twitter:description": "The web crawling, scraping, and search API for AI. Built for scale. Firecrawl delivers the entire internet to AI agents and builders. Clean, structured, and ready to reason with.",
+    "ogUrl": "https://www.firecrawl.dev",
+    "og:site_name": "Firecrawl - The Web Data API for AI",
+    "ogDescription": "The web crawling, scraping, and search API for AI. Built for scale. Firecrawl delivers the entire internet to AI agents and builders. Clean, structured, and ready to reason with.",
+    "next-size-adjust": "",
+    "og:description": "The web crawling, scraping, and search API for AI. Built for scale. Firecrawl delivers the entire internet to AI agents and builders. Clean, structured, and ready to reason with.",
+    "og:url": "https://www.firecrawl.dev",
+    "author": "Firecrawl",
+    "robots": "follow, index",
+    "ogSiteName": "Firecrawl - The Web Data API for AI",
+    "ogImage": "https://www.firecrawl.dev/og.png",
+    "creator": "Firecrawl",
+    "og:title": "Firecrawl - The Web Data API for AI",
+    "description": "Your Firecrawl dashboard overview",
+    "og:type": "website",
+    "twitter:title": "Firecrawl - The Web Data API for AI",
+    "ogTitle": "Firecrawl - The Web Data API for AI",
+    "viewport": "width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no",
+    "language": "en",
+    "referrer": "origin-when-cross-origin",
+    "baggage": [
+      "sentry-environment=vercel-production,sentry-release=eae602f46f00184fabc7400f3a404aaa16c65cc0,sentry-public_key=1d3122a166ee4102e2fa0b2f1f49b6af,sentry-trace_id=a5c1e715a26de8de7b0bfaf98c8384ab,sentry-org_id=4510354045468672,sentry-sampled=false,sentry-sample_rand=0.6466114902874627,sentry-sample_rate=0",
+      "sentry-environment=vercel-production,sentry-release=eae602f46f00184fabc7400f3a404aaa16c65cc0,sentry-public_key=1d3122a166ee4102e2fa0b2f1f49b6af,sentry-trace_id=a5c1e715a26de8de7b0bfaf98c8384ab,sentry-org_id=4510354045468672,sentry-sampled=false,sentry-sample_rand=0.6466114902874627,sentry-sample_rate=0"
+    ],
+    "twitter:site": "@Vercel",
+    "twitter:card": "summary_large_image",
+    "title": "Dashboard | Firecrawl",
+    "favicon": "https://www.firecrawl.dev/favicon.png",
+    "scrapeId": "019c0d94-5930-7397-b5b7-a3ae29df1afb",
+    "sourceURL": "https://www.firecrawl.dev/signin?view=signin",
+    "url": "https://www.firecrawl.dev/app",
+    "statusCode": 200,
+    "contentType": "text/html; charset=utf-8",
+    "timezone": "America/New_York",
+    "proxyUsed": "basic",
+    "creditsUsed": 1,
+    "concurrencyLimited": false
+  }
+}

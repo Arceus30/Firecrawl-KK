@@ -1,0 +1,45 @@
+{
+  "markdown": "Pricing plans\n\n## Custom plans that fit your scale\n\n### Free\n\n$0 / mo\n\n* * *\n\n500 message [credits](https://www.mendable.ai/pricing#credits) per month\n\n* * *\n\n- Pre-built Components + API\n- Unlimited Data Sources\n- Analytics Platform\n- Model Customization\n- Data Connectors (Notion, Zendesk, G-Drive...)\n- Custom Fine-tuning\n- White Label Components\n- Data Export\n\n[Get started](https://www.mendable.ai/signin)\n\n### Enterprise\n\nCustom\n\n* * *\n\n500+ message [credits](https://www.mendable.ai/pricing#credits) per month\n\n* * *\n\n- White Label Components\n- Custom Fine-tuning\n- Custom Models\n- Bring your own key\n- SSO\n- Analytics & Data Export\n- Custom Data Connectors\n- SLA & Premium Support\n\n[Talk to Us](mailto:help@firecrawl.com)\n\n## Message Credits\n\nOn a per month basis. You can switch models at anytime. Each message is one query and response.\n\n| Model / Feature | Credits per message |\n| --- | --- |\n| GPT-4 (Default) | 3 |\n| Tool Used | 3 |\n| Claude-2 | 2 |\n| GPT-3.5-Turbo | 1 |\n| Custom | Custom |\n\n## Trusted by amazing companies\n\n![](https://www.mendable.ai/snap-white.png)\n\n## [Snap](https://docs.snap.com/)\n\nMendable powers an AI chat assistant in Snap's AR documentation\n\nhttps://docs.snap.com/\n\n![](https://www.mendable.ai/langchain.png)\n\n## [Langchain](https://python.langchain.com/)\n\nOne of the most popular frameworks for developing AI applications\n\nhttps://python.langchain.com\n\n![](https://www.mendable.ai/0xlogo.png)\n\n## [0x](https://0x.org/docs)\n\n0x offers the core building blocks to create the most powerful Web3 apps\n\nhttps://0x.org/docs\n\nAnd many more...\n\nOur wall of love\n\n## Don't take our word for it\n\n## Frequently asked questions\n\nIf you have anything else you want to ask, [reach out to us](mailto:hello@mendable.ai).\n\n- ### Is it free?\n\n\nWe have a free plan that gives you 500 message credits. It is also free for certain Open source projects. Contact us to see if your project is eligible.\n\n- ### Do you train your AI model with my code?\n\n\nCurrently, Mendable does not look at any of your repository's code. However, in the future we may add it. We will always give you the option to opt out of sharing your data.\n- ### How do I remove the Powered by Mendable?\n\n\nTo remove the Powered by Mendable, you need to upgrade to an enterprise or custom plan. Contact us at [eric@mendable.ai](mailto:eric@mendable.ai) and we can help you out.\n\n- ### How do I get an anon key?\n\n\nTo get your anon key you need to sign up at [mendable.ai](https://mendable.ai/) and create a project. Then you can find your anon key in the API Keys section of the dashboard. Anon keys are used for client-side while API keys are used for server-side.\n- ### Is there a free plan?\n\n\nMendable offers a free plan with 300 message credits. It is also free for certain Open source projects. Contact us to see if your project is eligible.\n\n- ### Is GPT-4 pricing different?\n\n\nYes, right now GPT-4 will cost 3 requests per message instead of 1 (gpt-3.5-turbo). That means that instead of 500 messages, you will get around 166 messages if you only use GPT-4.\n- ### Can you correct the AI response?\n\n\nYes, Mendable offers a 'teach the model' functionality where you can correct the AI response and it will learn from it.\n\n- ### How can I integrate Mendable with my application?\n\n\nProbably! Check out the Mendable documentation here [https://docs.mendable.ai](https://docs.mendable.ai/) to better understand how you can start integrating.\n- ### Is it 100% accurate?\n\n\nLike Humans, AI will never be 100% accurate. So we can't assure you that every solution will be correct.\n\n- ### How do I cancel my subscription?\n\n\nSimply log into our platform, go to your account and click on \"Open customer portal\" button. There you will be able to cancel/modify it through Stripe.\n- ### How does Mendable work?\n\n\nOur application syncs with your documentation and support channels, then uses your docs and previously answered questions to suggest possible answers.\n\n- ### Are you open-source?\n\n\nCurrently not - although we have some open source components and integrations. If you have input here, please message us at. [hello@mendable.ai](mailto:hello@mendable.ai).\n- ### How does Mendable price custom plans?\n\n\n\n\n#### 1\\. Use case\n\n\n\n  - Mendable differentiates between internal and external use cases.\n  - With Mendable, we give you the ability to use our chat bots for a variety of use cases, both for internal efficiency and external communication to your customers.\n\n#### 2\\. Total usage\n\n  - For specifically external use cases, you will only pay for the value you're receiving.\n  - Mendable will look at the total number of messages sent during a month.\n\n#### 3\\. Custom work\n\n  - If there are any special feature requests (custom data connectors, etc.), we are happy to discuss these requirements!\n\nWe use tracking cookies to understand how you use the product and help us improve it!\n\nPlease accept cookies to help us improve.\n\nAccept CookiesDecline Cookies",
+  "metadata": {
+    "ogTitle": "Mendable",
+    "language": "en",
+    "og:description": [
+      "Mendable allows you to easily build AI chat applications. Ingest, customize, then deploy with one line of code anywhere you want. Brought to you by SideGuide",
+      "Custom plans that fit your scale"
+    ],
+    "next-head-count": "18",
+    "ogSiteName": "Mendable",
+    "og:type": "website",
+    "viewport": "width=device-width",
+    "twitter:site": "@vercel",
+    "ogImage": "https://mendable.ai/mendable_new_og1.png",
+    "og:title": [
+      "Mendable",
+      "Pricing"
+    ],
+    "twitter:card": "summary_large_image",
+    "og:url": "https://mendable.ai/pricing",
+    "ogDescription": "Mendable allows you to easily build AI chat applications. Ingest, customize, then deploy with one line of code anywhere you want. Brought to you by SideGuide",
+    "robots": "index,follow",
+    "ogUrl": "https://mendable.ai/pricing",
+    "twitter:title": "Mendable",
+    "title": "Pricing",
+    "twitter:description": "Mendable allows you to easily build AI chat applications. Ingest, customize, then deploy with one line of code anywhere you want. Brought to you by SideGuide",
+    "og:image": "https://mendable.ai/mendable_new_og1.png",
+    "description": "Custom plans that fit your scale",
+    "og:site_name": "Mendable",
+    "favicon": "https://www.mendable.ai/favicon.ico",
+    "scrapeId": "019c0dd0-a06e-74ca-89cf-0a86de23f6e8",
+    "sourceURL": "https://www.mendable.ai/pricing",
+    "url": "https://www.mendable.ai/pricing",
+    "statusCode": 200,
+    "contentType": "text/html; charset=utf-8",
+    "timezone": "America/New_York",
+    "proxyUsed": "basic",
+    "cacheState": "miss",
+    "indexId": "f3fc67e4-3a01-463f-b0a4-df5424a6fcd3",
+    "creditsUsed": 1
+  },
+  "warning": "This scrape job was throttled at your current concurrency limit. If you'd like to scrape faster, you can upgrade your plan.",
+  "id": "019c0dd0-9d57-74be-af5f-e785217bde5a"
+}
